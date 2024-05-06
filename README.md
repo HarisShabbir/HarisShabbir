@@ -2,15 +2,11 @@
 <h3 align="center">Tech Enthusiast & Aspiring Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harisshabbir&label=Profile%20views&color=0e75b6&style=flat" alt="harisshabbir" /> </p>
 
-- 🔭 I’m currently working on [Company Website](https://pyflowlabs.com/)
-
-- 🌱 I’m currently learning **Next.js**
-
 - 👯 I’m looking to collaborate on [Content Filtering](http://syedk1892.pythonanywhere.com/dashboard)
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarisShabbir](https://github.com/HarisShabbir)
 
-- 💬 Ask me about **React, Vue, Node, Flask, Django**
+- 💬 Ask me about **React, Vue, Node, ,Fatsify, Flask, SFCC**
 
 - 📫 How to reach me **harisshabbir43@gmail.com**
 
