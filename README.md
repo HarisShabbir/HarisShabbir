@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarisShabbir](https://github.com/HarisShabbir)
 
-- 💬 Ask me about **React, Vue, Node, ,Fatsify, Flask, SFCC**
+- 💬 Ask me about **React, Node, Fatsify, AWS, Magento , Salesforce , Flask**
 
 - 📫 How to reach me **harisshabbir43@gmail.com**
 
