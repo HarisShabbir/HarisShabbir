@@ -2,11 +2,9 @@
 <h3 align="center">Tech Enthusiast & Aspiring Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harisshabbir&label=Profile%20views&color=0e75b6&style=flat" alt="harisshabbir" /> </p>
 
-- 👯 I’m looking to collaborate on [Content Filtering](http://syedk1892.pythonanywhere.com/dashboard)
-
 - 👨‍💻 All of my projects are available at [https://github.com/HarisShabbir](https://github.com/HarisShabbir)
 
-- 💬 Ask me about **React, Node, Fatsify, AWS, Magento , Salesforce , Express**
+- 💬 Ask me about **React, Vue, Fastify, Express, AWS , Magento , Sfcc**
 
 - 📫 How to reach me **harisshabbir43@gmail.com**
 
