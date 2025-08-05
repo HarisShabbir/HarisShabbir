@@ -18,7 +18,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://www.openai.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" alt="openai" width="40" height="40"/>
+  <img src="https://github.com/HarisShabbir/openai-svgrepo-com.svg" alt="openai" width="40" height="40"/>
 </a>
   <a href="https://fastify.io" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastify.svg" alt="fastify" width="40" height="40"/></a>
   <a href="https://auth0.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/auth0.svg" alt="auth0" width="40" height="40"/></a>
