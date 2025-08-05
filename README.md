@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarisShabbir](https://github.com/HarisShabbir)
 
-- 💬 Ask me about ** LLM, Pydantic, Node, React, Fastify, Express, AWS, Magento, Sfcc, Hcl, Shopify, Adobe Analytics, Google Analytics, Auth0 **
+- 💬 Ask me about LLM, Pydantic, Node, React, Fastify, Express, AWS, Magento, Sfcc, Hcl, Shopify, Adobe Analytics, Google Analytics, Auth0.
 
 - 📫 How to reach me **harisshabbir43@gmail.com**
 
