@@ -16,8 +16,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://fastify.io" target="_blank"><img src="https://fastify.io/images/fastify-logo-inverted.7cd15476.svg" alt="fastify" width="40" height="40"/></a>
+<p align="left"> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://www.openai.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" alt="openai" width="40" height="40"/>
+</a>
+  <a href="https://fastify.io" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastify.svg" alt="fastify" width="40" height="40"/></a>
   <a href="https://auth0.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/auth0.svg" alt="auth0" width="40" height="40"/></a>
   <a href="https://shopify.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="shopify" width="40" height="40"/></a>
   <a href="https://business.adobe.com/products/analytics/adobe-analytics.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-analytics.svg" alt="adobe analytics" width="40" height="40"/></a>
